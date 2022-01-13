@@ -1,0 +1,72 @@
+@media (min-width: 501px) and (max-width: 767px) {
+
+    .barre {
+        margin-left: 0%;
+        width: 100%;
+        padding: auto;
+    }
+   
+    .img2 {
+        margin-top: 0px;
+        margin-bottom: 60px;
+
+
+    }
+    P {width: 300px;
+    
+    }
+}
+@media (max-width: 500px) {
+
+    .barre {
+        margin-left: 0%;
+        width: 100%;
+        padding:auto;
+    }
+    .img2 {
+        margin-bottom: 60px;
+        flex-direction: column;
+       
+    }
+  
+    P {width: 300px;
+    
+    }
+
+      
+  .clicky-menu.no-js li:hover > ul {
+    visibility: visible;
+    z-index: 10;
+}
+.clicky-menu.no-js li:focus-within > ul { 
+    visibility: visible;
+    z-index: 10;
+
+}
+
+}
+
+@media (min-width: 760px) and (max-width: 1024px) {
+.wrapper {
+
+    height: 350px;
+
+}}
+
+@media (min-width: 1100px)  {
+
+    .card {
+        height: 750px;
+
+    }
+
+    .card-content {
+        height : 45 px;
+
+}
+    .h2 {
+        height: 45px
+    }
+
+
+}

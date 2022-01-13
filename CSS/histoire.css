@@ -1,0 +1,82 @@
+*{
+    margin : 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.martin {
+    height: 250px;
+}
+
+
+
+
+.story {
+
+    display: flex;
+    color: black;
+    text-align: justify;
+    margin: 5px;
+    padding: 70px;
+    display: flex;
+ 
+    justify-content: space-evenly;
+
+}
+
+.text {
+    display: flex;
+    margin-left: 50px;
+}
+
+
+.story1 {
+
+    display: flex;
+    color: black;
+    text-align: justify;
+    margin: 5px;
+    padding: 70px;
+    justify-content: space-evenly;
+
+}
+
+.others {
+    background-color: gray;
+    display: flex;
+    padding: 50px;
+    
+ 
+}
+
+.personne {
+    display: flex;
+    text-align: justify;
+    margin: 0px;
+    padding: 30px;
+    
+}
+
+.personne1 {
+    display: flex;
+    text-align: justify;
+    margin: 0px;
+    padding: 30px;
+    
+}
+
+.personne2 {
+    display: flex;
+    text-align: justify;
+    margin: 0px;
+    padding: 30px;
+    
+}
+
+.text1 {
+    display: flex;
+    margin-right: 50px;
+    padding: 10px;
+}
+
+

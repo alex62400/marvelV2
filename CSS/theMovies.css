@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.entete1 {
+    background: url(/img/entete-avengers.jpg);
+    background-size: cover;
+    width: 100%;
+    background-position: bottom;
+    height: 460px;
+}

@@ -1,0 +1,87 @@
+@media screen and (min-width: 501px) and (max-width: 767px) {
+    .carousel-item {
+        flex-basis: 300px;
+        
+    }
+
+ 
+
+}
+
+@media screen and (min-width: 992px) {
+
+    body,
+    button,
+    input,
+    select,
+    optgroup,
+    textarea {
+        font-size: 1.125rem;
+    }
+
+    .carousel-item {
+        flex-basis: 325px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+
+}
+
+@media screen and (min-width: 1600px) {
+
+    body,
+    button,
+    input,
+    select,
+    optgroup,
+    textarea {
+        font-size: 1.25rem;
+    }
+}
+
+@media (max-width: 500px) { 
+    .art {
+        flex-direction: column;
+    }
+
+    ul .li {
+        display: inline-block;
+        margin-left: 50px;
+        width: 100%;
+    }
+
+    .wrapper {
+        width : 500px;
+    }
+    .art1 {
+        width: 500px;
+    }
+
+    .barre {
+        width: 500px; 
+    }
+
+    .carte {
+        
+        width: 500px;
+    }
+
+    footer {
+    
+    width: 500px;
+    }
+
+    main { width: 500px;
+    
+    }
+
+    header {
+        width: 500px;
+        display: flex;
+        flex-direction: column;
+        padding: 5px;
+    }
+}
+
+
